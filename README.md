@@ -1,0 +1,1 @@
+Arduino Basics is a collection of my beginner Arduino projects created while learning the fundamentals of Arduino programming and electronics. Each folder contains a separate experiment demonstrating a specific component or programming concept.
