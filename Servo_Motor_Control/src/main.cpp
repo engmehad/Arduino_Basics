@@ -1,7 +1,5 @@
 #include<Arduino.h>
 #include <Servo.h>
-
-// تعريف الأرجل (Pins)
 const int trigPin = 8;
 const int echoPin = 9;
 const int servoPin = 2;
